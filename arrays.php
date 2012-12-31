@@ -39,6 +39,8 @@ $tuts_sites = array(
 					<a href="<?php echo $url; ?>"><?php echo $name ?></a>
 				</li>			
 				<?php endforeach ?>
+				
+				<?php ech $tuts_sites?>
 		
 		</ul>
 	</body> 
