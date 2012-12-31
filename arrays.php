@@ -3,9 +3,9 @@
 
 // $months = array('january', 'february', 'march', 'april', 'may');
 // $months = ['january', 'february', 'march', 'april', 'may'];  5.4 syntax only!
-// var_dump($months);
+// var_dump($months);  ugly print
 // echo $months[0];
-// print_r($months);
+// print_r($months);  pretty print
 
 $tuts_sites = array(
 	'nettuts' => 'http://net.tutsplus.com',
@@ -39,8 +39,6 @@ $tuts_sites = array(
 					<a href="<?php echo $url; ?>"><?php echo $name ?></a>
 				</li>			
 				<?php endforeach ?>
-				
-				
 		
 		</ul>
 	</body> 
