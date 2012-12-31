@@ -1,5 +1,6 @@
 <?php
 		 
+//use PHPSH in Terminal for documentation		 
 
 // $months = array('january', 'february', 'march', 'april', 'may');
 // $months = ['january', 'february', 'march', 'april', 'may'];  5.4 syntax only!
