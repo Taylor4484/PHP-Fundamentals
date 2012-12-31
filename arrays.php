@@ -40,7 +40,7 @@ $tuts_sites = array(
 				</li>			
 				<?php endforeach ?>
 				
-				<?php ech $tuts_sites?>
+				
 		
 		</ul>
 	</body> 
